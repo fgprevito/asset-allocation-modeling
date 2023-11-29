@@ -2,7 +2,7 @@
 
 Goals: 
 
-build different asset allocation models to learn how risk and reward are balanced in portfolios, practice implementing research papers in code, as well as learning how to model future events into distributions, which I'll then sample out to test a trading model. 
+build different asset allocation models (Based off _Optimal Versus Naive Diversification: How Inefficient is the 1 / N Portfolio Strategy?_ Paper by DeMiguel, Garlappi, Uppal) to learn how risk and reward are balanced in portfolios, practice implementing research papers in code, as well as learning how to model future events into distributions, which I'll then sample out to test a trading model. 
 
 Planning to test this with classic linear models to non linear Bayesian models with priors and see their weaknesses and strengths.
 
