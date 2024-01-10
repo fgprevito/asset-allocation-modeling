@@ -6,6 +6,6 @@ build different asset allocation models (Based off _Optimal Versus Naive Diversi
 
 Planning to test this with classic linear models to non linear Bayesian models with priors and see their weaknesses and strengths.
 
-Will also lead to experience with: backtesting my results, what to do with biased data, time series biases, Sharpe ratios performance for linear models and non linear models, potentially derive unique risk adjusted performance measurement aside from standard deviation and Sharpe.
+Ultimately looking to build experience with: backtesting results, what to do with biased data, time series biases, Sharpe ratios performance for linear models and non linear models, potentially derive unique risk adjusted performance measurement aside from standard deviation and Sharpe.
 
-Ultimately building an intuition for what drives movement of stock and bonds and how they're related to each other, the effect of frequent trades (costs), and how volume impacts price movements.
+Really doing this to try and build an intuition for what drives movement of stock and bonds and how they're related to each other, the effect of frequent trades (costs), and how volume impacts price movements.
